@@ -1,0 +1,3 @@
+class Config{
+  final String serverToken='AAAAaowhDoQ:APA91bFUqoAQjcbyZ4-IUPBhNWqbCPRFBctzmSe9DAseii_RJvPaMz3FeUc5AaDSsBf8fr5Ov4k6lOHKMju7Nf4DqG1RPLm9PD3OLdkNIbRaHCSG28aQksX4EWLN6rF56dSIhMJviKrb';
+}
